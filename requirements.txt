@@ -1,0 +1,6 @@
+aiogram==2.25.1
+aiosqlite
+python-dotenv
+qrcode
+pillow
+aiohttp

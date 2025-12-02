@@ -1,0 +1,1 @@
+Deploy to Render: create Background Worker -> build command pip install -r requirements.txt -> start command python bot.py. Add env vars.
